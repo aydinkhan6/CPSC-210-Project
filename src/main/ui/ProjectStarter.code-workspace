@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../JsonSerializationDemo"
+		}
+	],
+    "settings": {
+        "java.project.sourcePaths": [
+            "src/test",
+            "src/main",
+            "src"
+        ],
+        "java.project.outputPath": "bin",
+        "java.project.referencedLibraries": [
+            "lib/**/*.jar"
+        ]
+    }
+}
